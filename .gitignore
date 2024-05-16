@@ -4,3 +4,11 @@ tmp/extractions/dcb/dcb-venv/
 *.parquet
 
 .DS_Store
+
+dcb_retrospective_indicators/dcb-venv/
+
+*.zip
+
+dcb_retrospective_indicators/input/
+
+dcb_retrospective_indicators/configurations.yaml
