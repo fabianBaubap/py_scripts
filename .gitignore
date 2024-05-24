@@ -12,3 +12,5 @@ dcb_retrospective_indicators/dcb-venv/
 dcb_retrospective_indicators/input/
 
 dcb_retrospective_indicators/configurations.yaml
+
+*.csv
